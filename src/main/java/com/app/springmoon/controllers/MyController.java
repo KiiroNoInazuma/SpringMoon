@@ -1,2 +1,4 @@
-package com.app.springmoon.controllers;public class MyController {
+package com.app.springmoon.controllers;
+
+public class MyController {
 }
