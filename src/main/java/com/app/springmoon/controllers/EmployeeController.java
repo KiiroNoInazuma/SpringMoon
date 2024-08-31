@@ -29,7 +29,5 @@ public class EmployeeController {
     @GetMapping("/all")
     public String getAllEmployee() {
         return informedService.printAllEmp();
-
-
     }
 }
