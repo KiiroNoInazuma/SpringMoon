@@ -1,10 +1,8 @@
 package com.app.springmoon.models;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
 
-@Getter
-@Setter
+@Data
 public class Employee {
 
     private final String fullName;
