@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequiredArgsConstructor
 @Slf4j
-@RequestMapping("/employee")
 public class EmployeeController {
 
     private final EmployeeDataInformedService informedService;
